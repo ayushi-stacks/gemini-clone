@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # gemini-clone
 =======
 # React + Vite
